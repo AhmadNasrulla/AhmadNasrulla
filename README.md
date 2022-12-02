@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AhmadNasrulla
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning AI.
+- 📫 How to reach me ahmadnasrullah7833@gmail.com
